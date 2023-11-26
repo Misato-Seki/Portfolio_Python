@@ -1,0 +1,8 @@
+In the third exercise we make one final adjustment to the class by adding initialization data and a docstring. 
+First add a docstring "Player-class: stores data on team colors and points.". 
+After this, add an initializing method __init__ to the class, and make it prompt the user for a new player color with the message"What color do I get?: ".
+
+
+Edit the main function to first create two player objects from the class, player1 and player2. 
+After this, make the program call player1's method "goal" twice and player2's goal once. 
+After this, call both objects with the method "tellscore". 
