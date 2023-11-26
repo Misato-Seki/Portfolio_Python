@@ -1,0 +1,4 @@
+This exercise expands on the calculator, which was made in chapter 4, exercise 4. 
+In this exercise, add sin() and cos() -calculations from the library module math to the calculator. 
+Add these actions as selections 5 and 6, simultaneously moving the "change numbers" feature to 7 and "Quit" to 8. 
+When the user calls either of the new features, the first number is the divident and second the divider like this: sin(number_1/number2). 
